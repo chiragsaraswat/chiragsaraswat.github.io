@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content_alignment{
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+}
